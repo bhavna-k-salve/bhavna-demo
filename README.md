@@ -1,3 +1,2 @@
 # bhavna-demo
-This is my first repository.
-Author -bhavna salve.
+This is my first repository.<br>Author -bhavna salve.
